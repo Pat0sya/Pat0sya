@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/96n1dn"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2l1ZHg5aWxmMG1ibXB6Znlhc3VrdGgyMGpnbHB4YTRzZ24wYzZrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/isbiY2wedwfpOrztL3/giphy.gif"  />
 
 ###
 
@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pat0sya/Pat0sya/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pat0sya/Pat0sya/output/snake.svg" alt="Snake animation" />
 
 ###

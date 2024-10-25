@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Egor and I'm a Back-end wannabe, from Russia</h2>
+<h2 align="left">Hi 👋! My name is Egor and I'm a Back-end wannabe from Russia</h2>
 
 ###
 
